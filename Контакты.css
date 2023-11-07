@@ -1,0 +1,150 @@
+ .u-section-1 {
+  background-image: url("images/cms-image-000021024.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 671px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  width: 391px;
+  margin: 66px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 2.25rem;
+  width: 313px;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 161px;
+  height: 161px;
+  background-image: url("images/ppbNalEKiZ4.jpg");
+  background-position: 50% 50%;
+  margin: 29px 111px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 161px;
+  height: 161px;
+  margin: -161px auto 0 111px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 161px;
+  height: 161px;
+  margin: -161px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 2.25rem;
+  width: 373px;
+  margin: 28px auto 0;
+}
+
+.u-section-1 .u-image-4 {
+  width: 187px;
+  height: 187px;
+  margin: -13px auto 29px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 636px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 671px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 66px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 66px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 588px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 569px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-left: 0;
+    margin-right: 0;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+    margin-left: 14px;
+    margin-right: 14px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 80px;
+    height: 80px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 43px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 10px;
+  }
+}
